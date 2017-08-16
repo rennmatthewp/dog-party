@@ -54,7 +54,7 @@ nav li:hover {
   margin-bottom: 25px;
 }
 
-a {
+.btn {
   background: white;
   border: 5px solid #3F8DA7;
   color: #3F8DA7;
@@ -62,7 +62,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.btn:hover {
   padding: 5px 10px;
   background: #3F8DA7;
   color: white;
@@ -103,4 +103,12 @@ footer ul {
 footer li {
   display: inline-block;
   margin: 0 25px;
+}
+
+.link {
+  color: white'
+}
+
+.link:hover {
+  color: #92E0E5;
 }
