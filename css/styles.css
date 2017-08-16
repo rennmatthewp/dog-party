@@ -44,6 +44,7 @@ nav li:hover {
 #hero img {
   display: block;
   margin: auto;
+  margin-bottom: 25px;
   border-radius: 50%;
   border: 5px solid #3F8DA7;
 }
@@ -51,4 +52,12 @@ nav li:hover {
 #hero h2 {
   font-size: 30px;
   margin-bottom: 25px;
+}
+
+#hero a {
+  background: white;
+  border: 5px solid #3F8DA7;
+  color: #3F8DA7;
+  padding: 5px 10px;
+  text-decoration: none;
 }
