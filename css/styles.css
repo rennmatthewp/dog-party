@@ -1,0 +1,17 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+header {
+  background: #92E0E5;
+  color: white;
+  padding: 0 25px;
+}
+
+ header h1 {
+   float: left;
+ }
+
+ header nav {
+   float: right;
+ }
