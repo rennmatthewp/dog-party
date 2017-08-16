@@ -32,3 +32,23 @@ nav li:hover {
   color: white;
   cursor: pointer;
 }
+
+#hero {
+  background: url(../images/park.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+#hero img {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  border: 5px solid #3F8DA7;
+}
+
+#hero h2 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
