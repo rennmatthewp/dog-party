@@ -61,3 +61,11 @@ nav li:hover {
   padding: 5px 10px;
   text-decoration: none;
 }
+
+.three-col {
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  margin: 0 10px;
+}
