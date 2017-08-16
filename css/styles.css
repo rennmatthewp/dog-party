@@ -27,6 +27,11 @@ nav li {
   padding: 17px 10px;
 }
 
+nav li a {
+  color: white;
+  text-decoration: none;
+}
+
 nav li:hover {
   background: #3F8DA7;
   color: white;
@@ -74,6 +79,10 @@ nav li:hover {
   text-align: center;
   vertical-align: top;
   margin: 0 10px;
+}
+
+.three-col h3 {
+  font-size: 18px;
 }
 
 .three-col img {
